@@ -1,0 +1,29 @@
+{
+    "error": false,
+    "message": "Berhasil mengambil data",
+    "daftar_instansi": [
+        {
+            "id": "1",
+            "id_kota": "1",
+            "nama_kota": "Kota Pangkalpinang",
+            "jenis_instansi": "Rumah Sakit",
+            "nama_instansi": "Rumah Sakit Umum Pangkalpinang",
+            "nomor_instansi": "0743234673",
+            "alamat_instansi": "Jl. Girimaya No.43, Girimaya, Kec. Bukit Intan, Kota Pangkalpinang, Bangka Belitung 40119.",
+            "lat_": "-6.524842",
+            "long_": "107.448613"
+        },
+        {
+            "id": "2",
+            "id_kota": "1",
+            "nama_kota": "Kota Pangkalpinang",
+            "jenis_instansi": "Perkantoran",
+            "nama_instansi": "Kantor Gubernur",
+            "nomor_instansi": "0839193423",
+            "alamat_instansi": "Jalan Padang Baru No.32, Pangkalpinang, Kota Pangkalpinang, Bangka Belitung 44382.",
+            "lat_": "-6.483249",
+            "long_": "107.479635"
+        }
+    ]
+}
+
